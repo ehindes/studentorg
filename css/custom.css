@@ -1,8 +1,10 @@
 /* custom css for akpsi wustl website */
 
 .padding {
-
+	padding-top:10px;
 }
+
+
 .header {
 	font-family: 'Roboto', sans-serif;
 	text-transform:uppercase;
@@ -10,38 +12,109 @@
 	font-size:42px;
 }
 
+
 .subheader {
 	font-family: 'Raleway', sans-serif;
 	font-size:22px;
 }
 
+
 .nav {
 	font-family: 'Raleway', sans-serif;
 }
 
+
 .page-header {
+	font-family: 'Roboto', sans-serif;
+	text-transform:uppercase;
+	font-style:bold;
+	font-size:25px;
+}
+
+
+.section-header {
 	font-family: 'Roboto', sans-serif;
 	text-transform:uppercase;
 	font-style:bold;
 	font-size:20px;
 }
 
-.section-header {
-	font-family: 'Roboto', sans-serif;
-	text-transform:uppercase;
-	font-style:bold;
-	font-size:17px;
-}
 
 .subsection-header {
 	font-family: 'Roboto', sans-serif;
+	text-transform:uppercase;
 	font-style:bold;
+	font-size:15px;
+}
+
+
+.thumbnail {
+	border:none;
+}
+
+.thumbnail-header {
+	font-family: 'Roboto', sans-serif;
+	text-transform:uppercase;
+	font-style:bold;
+	font-size:19px;
+	text-align:center;
+}
+
+.faculty-header {
+	font-family: 'Roboto', sans-serif;
+	text-transform:uppercase;
+	font-style:bold;
+	font-size:19px;
+}
+
+.thumbnail-secondary-header {
+	font-family: 'Roboto', sans-serif;
+	font-style:bold;
+	font-size:19px;
+	text-align:center;
+}
+
+.thumbnail-description {
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+}
+
+
+.name {
+	font-family: 'Roboto', sans-serif;
+	font-style:bold;
+	text-transform:uppercase;
+	font-size:;
+}
+
+.question {
+	font-family: 'Roboto', sans-serif;
+	font-style:bold;
+	text-transform:uppercase;
+}
+
+
+.answer {
+	font-family: 'Raleway', sans-serif;
+}
+
+.companies {
+	float:center;
+	vertical-align:middle;
+	width:200;
+	height:200;
 }
 
 p {
 	font-family: 'Raleway', sans-serif;
 }
 
+
 ul {
 	font-family: 'Raleway', sans-serif;
+}
+
+
+iframe {
+	float:center;
 }
