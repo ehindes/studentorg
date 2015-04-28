@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=f67c37406a6e4537f0ae)
- * Config saved to config.json and https://gist.github.com/f67c37406a6e4537f0ae
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=abf8211118d520e31d48)
+ * Config saved to config.json and https://gist.github.com/abf8211118d520e31d48
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -3999,8 +3999,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #ffffff;
-  background-color: #337ab7;
+  color: #ffd700;
+  background-color: #ffd700;
 }
 .nav-stacked > li {
   float: none;

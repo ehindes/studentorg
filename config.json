@@ -187,8 +187,8 @@
     "@nav-tabs-justified-link-border-color": "#ddd",
     "@nav-tabs-justified-active-link-border-color": "@body-bg",
     "@nav-pills-border-radius": "@border-radius-base",
-    "@nav-pills-active-link-hover-bg": "@component-active-bg",
-    "@nav-pills-active-link-hover-color": "@component-active-color",
+    "@nav-pills-active-link-hover-bg": "gold",
+    "@nav-pills-active-link-hover-color": "gold",
     "@pagination-color": "@link-color",
     "@pagination-bg": "#fff",
     "@pagination-border": "#ddd",
@@ -426,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=f67c37406a6e4537f0ae"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=abf8211118d520e31d48"
 }
