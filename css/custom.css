@@ -13,6 +13,13 @@
 }
 
 
+.sub {
+	font-family: 'Raleway', sans-serif;
+	font-style:bold;
+	font-size:15px;
+}
+
+
 .subheader {
 	font-family: 'Raleway', sans-serif;
 	font-size:22px;
@@ -21,6 +28,7 @@
 
 .nav {
 	font-family: 'Raleway', sans-serif;
+	color:navy;
 }
 
 
@@ -117,22 +125,11 @@
 }
 
 
-.anheuserbusch {
-	width:50%;
+.footerbar {
+	background:navy;
+	height:60px;
 }
-.razorfish {}
-.amazon {}
-.pandg {}
 
-.epic {}
-.thewallstreetjournal {}
-.accenture {}
-.jpmorgan {}
-
-.citi {}
-.target {}
-.atlanticrecords {}
-.capitalone {}
 
 p {
 	font-family: 'Raleway', sans-serif;
