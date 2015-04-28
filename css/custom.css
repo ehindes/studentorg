@@ -14,7 +14,6 @@
 	text-transform:uppercase;
 	font-style:bold;
 	font-size:42px;
-	display:inline-block;
 }
 
 
@@ -22,7 +21,7 @@
 	font-family: 'Raleway', sans-serif;
 	font-style:bold;
 	font-size:15px;
-	display:inline;
+	color:gold;
 }
 
 
@@ -35,6 +34,8 @@
 .nav {
 	font-family: 'Raleway', sans-serif;
 	color:navy;
+	display:block;
+	margin:auto;
 }
 
 	a:link {}
@@ -160,6 +161,11 @@ ul {
 
 
 iframe {
-	float:center;
+	display:block;
+	margin:auto;
 }
 
+img {
+	display:block;
+	margin:auto;
+}
