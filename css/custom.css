@@ -52,6 +52,7 @@
 	border:none;
 }
 
+
 .thumbnail-header {
 	font-family: 'Roboto', sans-serif;
 	text-transform:uppercase;
@@ -60,6 +61,7 @@
 	text-align:center;
 }
 
+
 .faculty-header {
 	font-family: 'Roboto', sans-serif;
 	text-transform:uppercase;
@@ -67,12 +69,14 @@
 	font-size:19px;
 }
 
+
 .thumbnail-secondary-header {
 	font-family: 'Roboto', sans-serif;
 	font-style:bold;
 	font-size:19px;
 	text-align:center;
 }
+
 
 .thumbnail-description {
 	font-family: 'Raleway', sans-serif;
@@ -87,6 +91,7 @@
 	font-size:;
 }
 
+
 .question {
 	font-family: 'Roboto', sans-serif;
 	font-style:bold;
@@ -98,12 +103,36 @@
 	font-family: 'Raleway', sans-serif;
 }
 
+
 .companies {
 	float:center;
 	vertical-align:middle;
 	width:200;
 	height:200;
 }
+
+
+.link {
+	font-family:'Raleway', sans-serif;
+}
+
+
+.anheuserbusch {
+	width:50%;
+}
+.razorfish {}
+.amazon {}
+.pandg {}
+
+.epic {}
+.thewallstreetjournal {}
+.accenture {}
+.jpmorgan {}
+
+.citi {}
+.target {}
+.atlanticrecords {}
+.capitalone {}
 
 p {
 	font-family: 'Raleway', sans-serif;
@@ -118,3 +147,5 @@ ul {
 iframe {
 	float:center;
 }
+
+
